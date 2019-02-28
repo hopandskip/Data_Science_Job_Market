@@ -12,6 +12,7 @@ Step 1- Define the goal(s).
 
 
 Step 2- Actionable- what's the point of the story?
+
 • To determine what are the desirable skillsets for Data Science applicants
 
 • To determine what industries are most popular for data science (possible drill-in to search how many tech companies are in the radius)
