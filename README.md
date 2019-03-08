@@ -24,5 +24,7 @@ Step 3- What data do you have and what data do you need?
 
 Step 4- What analysis needs to be done?
     - Descriptive- sums/counts
+    
     - Predictive?
-    - causal inference- dependent on data.
+    
+    - Causal inference- dependent on data.
