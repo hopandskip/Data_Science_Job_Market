@@ -1,1 +1,1 @@
-gkey='AIzaSyB4uaAAWdymRTTM5GSIbPFZwe7uppb2Zd4'
+gkey='YOUR_KEY_HERE'
